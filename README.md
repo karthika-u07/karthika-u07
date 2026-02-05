@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi 👋 I'm Karthika
 
-<!--
-**karthika-u07/karthika-u07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Backend Developer specializing in Python & Django REST Framework.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+- Python
+- Django / Django REST Framework
+- MySQL
+- REST APIs
+- Git
+
+---
+
+### 🛠 Backend Projects
+
+🔹 BookMyShow Backend System  
+https://github.com/karthika-u07/movie-ticket-booking-backend
+
+🔹 Splitwise Expense Sharing Backend  
+https://github.com/karthika-u07/Expense Sharing & Balance Settlement System
+
+🔹 URL Shortener with Rate Limiting & Abuse Detection  
+https://github.com/karthika-u07/Url-shortener-rate-limiter-abuse-detection-LLD  
+
+---
+
+### 📫 Contact
+LinkedIn: https://www.linkedin.com/in/karthika-u-40464722a
