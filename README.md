@@ -225,8 +225,6 @@ print("Building distributed systems, not just features 🚀")
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Microservices](https://img.shields.io/badge/-Microservices-1572B6?style=flat-square&logo=micro&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
 </div>
 
 **Active Focus:**
