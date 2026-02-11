@@ -1,7 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm Karthika!-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://karthika-u-backend-dev-kltiqyp.gamma.site/)
+# 👋 Hey, I'm Karthika!
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://karthika-u-backend-dev-kltiqyp.gamma.site/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F97F7&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Python+%26+Django+Expert;Building+Distributed+Systems;API+Architecture+Enthusiast)](https://git.io/typing-svg)
 
